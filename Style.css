@@ -186,6 +186,7 @@ header input[type=submit] {
 }
 
 .text div {
+    height: 200px;
     margin: 20px auto;
     border-radius: 20px;
     width: 90%;
@@ -300,24 +301,28 @@ header input[type=submit] {
     background: rgb(0 98 255 / 78%);
     padding: 15px 0px;
     margin-bottom: 20px;
+    height: 310px;
 }
 
 .madmaxpage {
     background: rgb(0 98 255 / 78%);
     padding: 15px 0px;
     margin-bottom: 20px;
+    height: 310px;
 }
 
 .matrixpage {
     background: rgb(0 98 255 / 78%);
     padding: 15px 0px;
     margin-bottom: 20px;
+    height: 310px;
 }
 
 .cloudpage {
     background: rgb(0 98 255 / 78%);
     padding: 15px 0px;
     margin-bottom: 20px;
+    height: 310px;
 }
 
 /* Interstellar, Matrix, Madnax, Cloud Styles */
@@ -328,6 +333,7 @@ header input[type=submit] {
     padding-bottom: 15px;
     padding-top: 15px;
     margin-top: 26px;
+    height: 310px;
 }
 
 .description img {
@@ -422,6 +428,7 @@ table img {
     width: 92%;
     border: solid 4px rgb(0 98 255 / 78%);
     border-radius: 8px;
+    margin: 0px;
 }
 
 table span {
