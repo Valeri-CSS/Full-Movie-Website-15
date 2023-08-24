@@ -3,7 +3,7 @@
 Outline
 
 - [Overview](#overview)
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshots)
 - [Links](#links)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
