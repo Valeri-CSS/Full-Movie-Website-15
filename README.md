@@ -1,4 +1,4 @@
-# Full-Movie-Website-15
+ # Full-Movie-Website-15
 
 Outline
 
@@ -7,12 +7,11 @@ Outline
 - [Links](#links)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
-- [Problems](#Problems)
 - [Author](#author)
 
 
 ## Overview
-This is a Full Adaptive Cretive Agency Landing page, and is suitable for every kind of devices. 
+This is a Full suitable Movie website, for every kind of devices. The website contains more of pages and effects.
 
 ### Screenshots
 
@@ -44,16 +43,16 @@ Live Solution : https://github.com/Valeri-CSS/Full-Movie-Website-15
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Grid
+- Mobile-first workflow
 
 ### What I learned
 
-This is my first website  where I used "Display:Grid" that makes for me easy to make the Website more suitable for any kind of devices. Olso I emproved my Flex-box skills and I tryied in this project to style the elements with "Pseudo Classes" and create some of elements with ::Before and :After which was for me olso new experience.
+This is my first website with more of pages, with this project I learned lot of thing for example: how to creat a Table I used this for Rating page on the website. I learnd olso how to connect more of pages with each other. I used at the firs time youtube videos as a trailer on my website and I olso used <a href="#"></a> Tag to connect somthing with the link, for example by klicking on the image to open other page and I leardn olso how to chouse where to open the page for this I used <a target="_parent"></a> to open the page in the same window.   
+
+### problems
+I'm aware that there are two couple of problems on the website, for example on the hom page, clicking on the image of the interstellar doesn't open a page, but I'm already working on to fix this problems.
 
 ### Author
 
 - Frontend Mentor: Valeri Beridze 
 - GitHub : Valeri-CSS
-
-
-
